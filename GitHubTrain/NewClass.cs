@@ -8,5 +8,9 @@ namespace GitHubTrain
 {
     class NewClass
     {
+        private string _model;
+
+
+        // Comment
     }
 }
