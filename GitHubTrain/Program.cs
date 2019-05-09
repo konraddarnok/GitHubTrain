@@ -10,6 +10,7 @@ namespace GitHubTrain
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("TestGithub");
         }
     }
 }
