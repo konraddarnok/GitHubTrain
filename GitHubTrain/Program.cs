@@ -10,6 +10,7 @@ namespace GitHubTrain
     {
         static void Main(string[] args)
         {
+            // Just to create conflict
             Console.WriteLine("TestGithub");
         }
     }
